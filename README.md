@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning front-end development and basics of programming languages
 - 💞️ I’m looking to collaborate on big projects 
-- 📫 How to reach me : shaironixease@gmail.com
+- 📫 How to reach me : shaironixease@gmail.com , https://www.facebook.com/Youssef.Sci/ 
 
 👋 Greetings! I'm a front-end developer with a passion for crafting captivating user experiences that leave a lasting impression.
 🎨 Whether it's bringing designs to life with HTML and CSS or adding interactivity with JavaScript,
