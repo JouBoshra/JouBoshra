@@ -1,7 +1,7 @@
-![front-end-development](https://github.com/user-attachments/assets/1c8b1888-f15a-4663-b64a-90c443f73529)<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> I'm Youssef Boshra</h1>
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> I'm Youssef Boshra</h1>
 
 <div align="center">
-  ![front-end-development](https://github.com/user-attachments/assets/ec2dbcf3-ca88-4c33-a3be-484ffdb38316)
+![Uploading front-end-development.gif…]()
 </div>
 
 <br/>
